@@ -91,3 +91,12 @@
 }
 .box_11 {
 }
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
